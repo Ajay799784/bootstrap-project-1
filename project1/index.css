@@ -1,0 +1,36 @@
+.mouni {
+  width: 50px;
+  height: 50px;
+  float: end;
+  position: relative;
+}
+.raju {
+  font-size: 20px;
+  background-color: yellow;
+  color: black;
+  padding: 8px 16px;
+  text-decoration: none;
+  border-radius: 10px;
+  text-transform: capitalize;
+}
+.mass {
+  font-size: 20px;
+  background-color: red;
+  color: white;
+  padding: 8px 16px;
+  text-decoration: none;
+  border-radius: 10px;
+  text-transform: capitalize;
+}
+.piky {
+  font-size: 40px;
+}
+.ramu {
+  font-weight: lighter;
+  font-style: italic;
+  color: white;
+  margin-bottom: 40px;
+}
+.agni {
+  font-style: italic;
+}
